@@ -1,5 +1,5 @@
 import React from 'react';
-import FirstSection from "./Components/FirstSection"
+import FirstSection from "./Components/firstSection/FirstSection"
 import './App.css';
 
 function App() {
