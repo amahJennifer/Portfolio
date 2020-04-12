@@ -4,7 +4,7 @@ const EducationSection = () => {
   return (
 		<div className="animated fadeInUp delay-4s edu-section">
 			<div className="edu-container">
-				<div className="sub-title">Things I've Learnt</div>
+				<div className="sub-title-edu">Things I've Learnt</div>
 				<div className="title">Education</div>
 				<div className="job-subSection">
 					<div className="job-company">
