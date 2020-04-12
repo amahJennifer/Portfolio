@@ -1,12 +1,11 @@
-.skills-section{
+.contact-section{
   width: 100vw;
-background-color:
-#FFF;
+background-color: #0B192E;
 position: relative;
 padding: 7em 0 7em 0;
 z-index: 12;
 }
-.skills-container{
+.contact-container{
   max-width: 50rem;
 padding-left: 1.5rem;
 padding-right: 1.5rem;
@@ -14,8 +13,7 @@ margin-left: auto;
 margin-right: auto;
 position: relative;
 }
-
-.sub-title{
+.subtitle{
   font-family: 'BenchNine', sans-serif;
 text-transform: uppercase;
 text-align: left;
@@ -23,37 +21,32 @@ color:
 #27AEE8;
 font-size: 1.3em;
 }
-
-.title-skills{
+.title{
   font-family: 'Libre Franklin', sans-serif;
 font-size: 2.5em;
 text-transform: uppercase;
-color:#133F7F;
+color:white;
 z-index: 1;
 line-height: 1em;
 padding: 0.1em 0 0.75em 0;
 font-weight: 900;
 font-style: italic;
 }
-
-.skill-details::after{
-  content: "";
-display: table;
-clear: both;
+.text{
+  font-family: 'Libre Franklin', sans-serif;
+font-size: 0.9rem;
+line-height: 1.75rem;
+color:#FFF;
+opacity: 0.6;
+}
+.email-btn{
+  margin-top: 3em;
 }
 
-.language-column{
-  float: left;
-width: 33.33%;
+.mail-btn{
+  background-color:#1D3352;
+padding: 0.5em 1em;
+border-radius: 10px;
+color: #FFF;
+text-decoration: none;
 }
-
-.language-header{
-  margin-top: 0.5em;
-margin-bottom: 1em;
-font-weight: 700;
-}
-.language{
-      font-size: 0.8em;
-    line-height: 2em;
-}
-
