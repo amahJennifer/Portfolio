@@ -1,10 +1,14 @@
-.exp-Section{
-  width:100vw;
-  position: relative;
-  background-color: #152E4E;
-  padding : 7em 0 7em 0;
+.edu-section{
+  width: 100vw;
+background-color:
+#2EBAEE;
+position: relative;
+padding: 7em 0 7em 0;
+margin-top: -1px;
+z-index: 12;
 }
-.exp-container{
+
+.edu-container{
   max-width: 50rem;
 padding-left: 1.5rem;
 padding-right: 1.5rem;
@@ -12,24 +16,27 @@ margin-left: auto;
 margin-right: auto;
 position: relative;
 }
+
 .sub-title{
   font-family: 'BenchNine', sans-serif;
 text-transform: uppercase;
 text-align: left;
-color: #27AEE8;
+color: #1D3352;
 font-size: 1.3em;
 }
+
 .title{
   font-family: 'Libre Franklin', sans-serif;
 font-size: 2.5em;
 text-transform: uppercase;
-color: rgb(255, 255, 255);
+color:white;
 z-index: 1;
 line-height: 1em;
 padding: 0.1em 0 0.75em 0;
 font-weight: 900;
 font-style: italic;
 }
+
 .job-subSection{
   position: relative;
 padding: 1.5em 0 1.5em 0;
@@ -38,12 +45,11 @@ color:white;
 }
 .job-company{
   font-weight: 700;
-opacity: 0.8;
 font-size: 2em;
 }
-.job-position{
+.job-position-edu{
   font-weight: 500;
-color:aqua;
+color:#2A3C57;
 font-size: 0.85em;
 padding-top: 0.5em;
 }
@@ -56,25 +62,32 @@ position: absolute;
 right: 0;
 padding-top: 8px;
 }
-.job-details{
+.job-details-edu{
   max-height: 0;
 opacity: 0;
 overflow: hidden;
 font-size: 15px;
 line-height: 30px;
+color:#000;
 }
-.job-subSection:hover .job-details{
+.job-subSection:hover .job-details-edu{
 transition: all 0.5s ease;
 max-height:100%;
 opacity:0.5
 } 
-.view{
-display:flex;
-justify-content: space-between;
+
+.requestBtn{
+  margin-top:2rem;;
 }
-.view a{
-   color:#278BD2;
-text-decoration: none !important;
+.requestLink{
+  background-color:#1D3352;
+padding: 0.5em 1em;
+border-radius: 10px;
+color: #FFF;
+
+}
+.requestBtn a{
+  text-decoration: none !important;
 font-weight: 600;
 font-family: 'Avenir Next', 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
