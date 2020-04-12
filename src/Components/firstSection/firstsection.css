@@ -54,3 +54,26 @@ transform:translate(0px);
 margin-left: 0;
 margin-right: -1em;
 }
+
+.aboutBtn{
+  bottom: 0;
+position: absolute;
+left: 50%;
+width: 220px;
+text-align: center;
+margin-bottom: 3em;
+margin-left: -110px;
+padding: 10px 0 10px 0;
+background-color:
+#FFF;
+border-radius: 10px;
+font-family: 'Libre Franklin', sans-serif;
+font-weight: 600;
+z-index: 100;
+}
+.aboutBtn a{
+  text-decoration: none !important;
+font-weight: 600;
+font-family: 'Avenir Next', 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+color:#33418A;
+}

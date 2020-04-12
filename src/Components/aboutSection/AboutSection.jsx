@@ -10,10 +10,10 @@ import whatsapp from "../../assests/images/whatsapp.svg"
 import "./aboutsection.css"
 const AboutSection = () => {
   return (
-    <div className="aboutSection">
+    <div id="about" className=" animated fadeInUp delay-2s aboutSection">
       <div className="aboutContainer">
         <div className="little">
-          A little Bit 
+          <b>A little Bit</b> 
         </div>
         <div className="aboutMe">About ME</div>
         <div className="text">

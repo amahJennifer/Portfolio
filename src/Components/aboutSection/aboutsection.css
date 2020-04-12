@@ -17,10 +17,12 @@
 }
 .little {
 	font-family: "BenchNine-Bold", sans-serif;
-	text-transform: uppercase;
+  text-transform: uppercase;
 	text-align: left;
 	color: #27aee8;
-	font-size: 1.3em;
+  font-size: 1em;
+  
+  
 }
 
 .aboutMe {
