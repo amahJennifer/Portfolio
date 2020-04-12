@@ -1,0 +1,61 @@
+.aboutSection {
+	width: 100vw;
+	background-color: #fff;
+	position: relative;
+	padding: 7em 0 7em 0;
+	z-index: 12;
+	box-shadow: 0 -15px 20px 0 rgba(0, 0, 0, 0.25);
+}
+
+.aboutContainer {
+	max-width: 50rem;
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+.little {
+	font-family: "BenchNine-Bold", sans-serif;
+	text-transform: uppercase;
+	text-align: left;
+	color: #27aee8;
+	font-size: 1.3em;
+}
+
+.aboutMe {
+	font-family: "Libre Franklin", sans-serif;
+	font-size: 2.5em;
+	text-transform: uppercase;
+	color: #133f7f;
+	z-index: 1;
+	line-height: 1em;
+	padding: 0.1em 0 0.75em 0;
+	font-weight: 900;
+	font-style: italic;
+}
+
+.text {
+	font-family: "Libre Franklin", sans-serif;
+	font-size: 0.9rem;
+	line-height: 1.75rem;
+	color: #000;
+}
+.text p {
+	margin-top: 0;
+	margin-bottom: 1rem;
+}
+.socialContainer{
+  height:10rem;
+width:100vw;
+}
+.social{
+  float: left;
+padding-right: 50px;
+margin-top: 1rem;
+opacity: 0.6;
+margin-bottom: 50px;
+}
+.social-icon{
+  width:2rem;
+}

@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'BenchNine-Bold';
+  src: local('BenchNine-Bold')
+    url('./assests/fonts/BenchNine-Bold.otf') format('opentype');
+}
+@font-face {
+  font-family: 'BenchNine-Light';
+  src: local('BenchNine-Light')
+    url('./assests/fonts/BenchNine-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BenchNine-Regular';
+  src: local('BenchNine-Regular')
+    url('./assests/fonts/BenchNine-Regular.otf') format('opentype');
+}
