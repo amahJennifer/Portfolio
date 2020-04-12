@@ -1,5 +1,4 @@
 .aboutSection {
-	width: 100vw;
 	background-color: #fff;
 	position: relative;
 	padding: 7em 0 7em 0;
@@ -49,7 +48,6 @@
 }
 .socialContainer{
   height:10rem;
-width:100vw;
 }
 .social{
   float: left;
