@@ -5,6 +5,7 @@ import AboutSection from './Components/aboutSection/AboutSection';
 import ExperienceSection from './Components/experienceSection/ExperienceSection';
 import EducationSection from './Components/educationSection/EducationSection';
 import SkillsSection from "./Components/skillsSection/SkillsSection"
+import ContactSection from "./Components/contactSection/ContactSection"
 function App() {
   return (
     <div className="App">
@@ -13,6 +14,7 @@ function App() {
       <ExperienceSection />
       <EducationSection />
       <SkillsSection />
+      <ContactSection/>
     </div>
   );
 }
