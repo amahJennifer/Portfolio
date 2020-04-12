@@ -2,10 +2,10 @@ import React from 'react'
 import "./skills.css"
 const SkillsSection = () => {
   return (
-		<div className="skills-section">
+		<div className="animated fadeInUp delay-5s skills-section">
 			<div className="skills-container">
 				<div className="sub-title">What I have to Offer</div>
-				<div className="title">Skills</div>
+				<div className="title-skills">Skills</div>
 				<div className="skill-details">
 					<div className="language-column">
 						<div className="language-header">Language</div>

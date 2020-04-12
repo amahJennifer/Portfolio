@@ -5,7 +5,7 @@ const EducationSection = () => {
 		<div className="animated fadeInUp delay-4s edu-section">
 			<div className="edu-container">
 				<div className="sub-title-edu">Things I've Learnt</div>
-				<div className="title">Education</div>
+				<div className="title-edu">Education</div>
 				<div className="job-subSection">
 					<div className="job-company">
 						Wisconsin International University College
@@ -69,7 +69,7 @@ const EducationSection = () => {
 					</div>
 				</div>
 				<div className="requestBtn">
-					<a href=" https://wa.me/2348148547405" className="requestLink">
+					<a href="mailto:jennifer000@rocketmail.com" className="requestLink">
 						Request My Full Resume
 					</a>
 				</div>

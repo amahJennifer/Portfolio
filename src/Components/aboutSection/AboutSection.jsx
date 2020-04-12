@@ -16,7 +16,7 @@ const AboutSection = () => {
           <b>A little Bit</b> 
         </div>
         <div className="aboutMe">About ME</div>
-        <div className="text">
+        <div className="about-text">
           <p>Jennifer Amah is a FullStack developer from Nigeria,She studied Computer Science And
             Management with first class degree from Wisconsin International University College</p>
           <p>Over the years she has worked on several live projects to solve real life problems ,Most of these Projects are fintech Apps .
