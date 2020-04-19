@@ -22,8 +22,8 @@ const AboutSection = () => {
           <p>Over the years she has worked on several live projects to solve real life problems ,Most of these Projects are fintech Apps .
           Jennifer is most excited about fintech applications ,making and using purchasing power at the comfort of your bedroom.
           </p>
-          <p>Over the years she has worked on several live projects to solve real life problems ,Most of these Projects are fintech Apps .
-          Jennifer is most excited about fintech applications ,making and using purchasing power at the comfort of your bedroom
+          <p>She is an expert in NODE.js and REACT.js .Building and Consuming RESTFUL APIs with the best framework.Jennifer is 
+          also familiar with Laravel(PHP). 
           </p>
         </div>
         <div className="socialContainer">
@@ -33,13 +33,8 @@ const AboutSection = () => {
             </a>
           </div>
           <div className="social">
-            <a href="https://www.linkedin.com/in/jennifer-amah-aa2949122/">
+            <a href="skype:live:iljonemilliontimes?chat">
               <img src={skype} className="social-icon" />
-            </a>
-          </div>
-          <div className="social">
-            <a href="https://www.linkedin.com/in/jennifer-amah-aa2949122/">
-              <img src={behance} className="social-icon" />
             </a>
           </div>
           <div className="social">

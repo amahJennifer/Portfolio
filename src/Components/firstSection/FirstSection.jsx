@@ -16,7 +16,7 @@ const FirstSection = () => {
 							<div className="stack">
 
 							</div>
-							<h4 className="animated fadeInDown mt-5">FullStack Developer</h4>
+							<h4 className="animated fadeInDown mt-5">FullStack Engineer</h4>
 							<h5 className="animated fadeInUp">REACT.JS,NODE.JS</h5>
 			</div>
 				</div>
@@ -24,7 +24,7 @@ const FirstSection = () => {
 				</div>
 			
 				<div className="mt-5 animated fadeInUp delay-2s aboutBtn">
-					<a href="#about">Get to know Me</a>
+					<a href="#about" className="animated flash infinite delay-3s">Get to know Me</a>
 				</div>
 
 			</div>

@@ -10,7 +10,7 @@ const SkillsSection = () => {
 					<div className="language-column">
 						<div className="language-header">Language</div>
 						<div className="language">JavaScript</div>
-						<div className="language">Python</div>
+						<div className="language">Php</div>
 						<div className="language">Html</div>
 						<div className="language">Css</div>
 						<div className="language">SQL</div>
@@ -28,7 +28,7 @@ const SkillsSection = () => {
 						<div className="language">ReactJS</div>
 						<div className="language">ReactNative</div>
 						<div className="language">NodeJS</div>
-						<div className="language">Django</div>
+						<div className="language">Laravel</div>
 						<div className="language">Bootstrap</div>
 					</div>
 				</div>
