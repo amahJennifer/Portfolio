@@ -1,5 +1,4 @@
 import React from "react";
-import profile from "../../assests/images/profile.png";
 import "./firstsection.scss";
 const FirstSection = () => {
   return (
