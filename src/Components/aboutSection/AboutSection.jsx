@@ -1,10 +1,6 @@
 import React from 'react'
 import linkedin from "../../assests/images/linkedin.svg"
-import facebook from "../../assests/images/facebook.svg"
-import behance from "../../assests/images/behance.svg"
-import instagram from "../../assests/images/instagram.svg"
-import skype from "../../assests/images/skype.svg"
-import twitter from "../../assests/images/twitter.svg"
+import skype from "../../assests/images/skype.svg";
 import whatsapp from "../../assests/images/whatsapp.svg"
 
 import "./aboutsection.css"
