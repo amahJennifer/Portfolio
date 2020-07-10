@@ -12,19 +12,16 @@ const ExperienceSection = () => {
 					<div className="job-date">2019-present</div>
 					<div className="job-details">
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							reprehenderit.
+							Building Restful APis with Node,MongoDB ,Postgres etc.
 						</p>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							reprehenderit.
+							Building User Interfaces (Web Pages)
 						</p>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							reprehenderit.
+							Consuming APis 
+						</p>
+						<p>
+							Meeting Software Business Requirements
 						</p>
 						<div className="view">
 							<a href="#">View my interview about this role </a>
@@ -59,25 +56,27 @@ const ExperienceSection = () => {
 					<div className="job-date">2017-2018</div>
 					<div className="job-details">
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							reprehenderit.
+							Managing Banking Application
 						</p>
 						<p> 
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							reprehenderit.
+							Training staff to use banking Application
 						</p>
-						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							reprehenderit.
+						<p> 
+							Banking Transactions 
 						</p>
-						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut
-							reprehenderit.
+						<p> 
+							Account Creation 
 						</p>
+						<p> 
+							Loan Management 
+							-- Loan Recovery 
+							-- Preparation of Monthly Loan Repayment Report 
+						</p>
+						<p> 
+							Business Survey -- Site Inspection 
+						</p>
+					
+						
 						<div className="view">
 							<a href="#">View my interview about this role </a>
 							<a href="#">Visit Decagon's</a>

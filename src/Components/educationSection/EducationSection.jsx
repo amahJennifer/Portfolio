@@ -19,26 +19,22 @@ const EducationSection = () => {
 					<div className="job-date">Sept 2012 - Nov 2016</div>
 					<div className="job-details-edu">
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							reprehenderit.
+							Intoduction to Programming
 						</p>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							reprehenderit.
+							Database Management System
 						</p>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							reprehenderit.
+							Java Application Development
 						</p>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut
-							reprehenderit.
+							Visual Basics 
+						</p>
+						<p>
+							Programming in C and C++
 						</p>
 					</div>
+						
 				</div>
 				<div className="job-subSection">
 					<div className="job-company">Decagon Learning Institute</div>
@@ -47,25 +43,12 @@ const EducationSection = () => {
 					<div className="job-date">Sept 2019 - Feb 2020</div>
 					<div className="job-details-edu">
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							reprehenderit.
+							Product Life cycle 
 						</p>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							reprehenderit.
+							Building World Class Softwares
 						</p>
-						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							reprehenderit.
-						</p>
-						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut
-							reprehenderit.
-						</p>
+				
 					</div>
 				</div>
 				<div className="requestBtn">
